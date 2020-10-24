@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HousingModel", "HousingModel\HousingModel.csproj", "{7848DE2C-ACA4-47C0-8D15-9DAA437D4D31}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HousingModelML.Model", "HousingModelML.Model\HousingModelML.Model.csproj", "{042374BB-4B67-413C-9BE7-B2A810230F61}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HousingModelML.ConsoleApp", "HousingModelML.ConsoleApp\HousingModelML.ConsoleApp.csproj", "{DF96FEC8-90AB-4960-BC33-7A32C280F1DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{7848DE2C-ACA4-47C0-8D15-9DAA437D4D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7848DE2C-ACA4-47C0-8D15-9DAA437D4D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7848DE2C-ACA4-47C0-8D15-9DAA437D4D31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042374BB-4B67-413C-9BE7-B2A810230F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042374BB-4B67-413C-9BE7-B2A810230F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042374BB-4B67-413C-9BE7-B2A810230F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042374BB-4B67-413C-9BE7-B2A810230F61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF96FEC8-90AB-4960-BC33-7A32C280F1DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF96FEC8-90AB-4960-BC33-7A32C280F1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF96FEC8-90AB-4960-BC33-7A32C280F1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF96FEC8-90AB-4960-BC33-7A32C280F1DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
